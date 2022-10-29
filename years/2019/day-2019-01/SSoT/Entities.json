@@ -1,0 +1,9 @@
+{
+  "Entities": [
+    {
+      "AirtableName": "201901-Modules",
+      "Name": "Module",
+      "PluralName": "Modules"
+    }
+  ]
+}

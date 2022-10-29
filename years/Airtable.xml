@@ -1,0 +1,1211 @@
+<Airtable>
+  <Entities>
+    <Entity>
+      <EntityId>recDuAn3CL8x47xCU</EntityId>
+      <createdTime>2022-10-29T19:47:17Z</createdTime>
+      <OnlineGame>recudDCFSz4R7ujD2</OnlineGame>
+      <ActualAirtableName>Years</ActualAirtableName>
+      <PluralName>Years</PluralName>
+      <Name>Year</Name>
+      <CurrentDay>recYxR1fF3a2DghD4</CurrentDay>
+      <AirtableName>Years</AirtableName>
+      <CurrentDayCode>day-2019-01-</CurrentDayCode>
+    </Entity>
+    <Entity>
+      <EntityId>recOmPi5uz61WtN7e</EntityId>
+      <createdTime>2022-10-29T21:11:13Z</createdTime>
+      <OnlineGame>recudDCFSz4R7ujD2</OnlineGame>
+      <ActualAirtableName>Days</ActualAirtableName>
+      <PluralName>Days</PluralName>
+      <Name>Day</Name>
+      <CurrentDay>recYxR1fF3a2DghD4</CurrentDay>
+      <AirtableName>Days</AirtableName>
+      <CurrentDayCode>day-2019-01-</CurrentDayCode>
+    </Entity>
+  </Entities>
+  <Years>
+    <Year>
+      <YearId>rec5wie1foK4dvWlb</YearId>
+      <createdTime>2022-10-29T19:34:40Z</createdTime>
+      <Days>recdY4E4VYgIJaoKp</Days>
+      <Days>rechNeyGdnm6iNaz9</Days>
+      <Days>recgXyU0CBiQjGTQY</Days>
+      <Days>recok2Vh2wf7BhzyE</Days>
+      <Days>recVYXCcvg8T1Gfcd</Days>
+      <Days>rectGtvlFTmrJEbce</Days>
+      <Days>rec9pN7gzwGFc7Ort</Days>
+      <Days>recvTCbbY6lAhsmiz</Days>
+      <Days>recm5BG34hdoA9N3h</Days>
+      <Days>rec10Ltr0GZezpoIA</Days>
+      <Days>recBLQn4E3OhqT8Uc</Days>
+      <Days>recQN8RcHFkAhu2Bi</Days>
+      <Days>recvAOLUt0Ma8vMTJ</Days>
+      <Days>reciyCqZGYy0WaImK</Days>
+      <Days>rec80x2Mu6ZaJHTid</Days>
+      <Days>rec0icNe3PJnk4w49</Days>
+      <Days>recL7vS2Ng7qCks7E</Days>
+      <Days>recz1ZkeQ309IBIvU</Days>
+      <Days>recvHraRzk02ps3P4</Days>
+      <Days>recokScS1RhQkTwkH</Days>
+      <Days>rec2x1RIYI9PJltvt</Days>
+      <Days>recdD5khHA3LXJSY1</Days>
+      <Days>recpkvUeAwv79cIEE</Days>
+      <Days>rec7stTuJec9hLo1L</Days>
+      <Days>recN78pO2gopaRoIR</Days>
+      <Name>2021</Name>
+    </Year>
+    <Year>
+      <YearId>recNX04Q9JIqUOPvq</YearId>
+      <createdTime>2022-10-29T19:34:40Z</createdTime>
+      <Days>recBIdrUcUcyiZN9r</Days>
+      <Days>recA6MdP37TaLNhsX</Days>
+      <Days>recnm8SF1o7EYKs3X</Days>
+      <Days>recCliETHCQstpkG2</Days>
+      <Days>rec6VJsqEuquMWudp</Days>
+      <Days>recv0J4hJI1IUcuQ1</Days>
+      <Days>recP3dhGdzjmhJZWF</Days>
+      <Days>reccoHvY3ESxMzm1o</Days>
+      <Days>rece5kCIjsQ3GZQ8o</Days>
+      <Days>recyu34xmFLskR4YU</Days>
+      <Days>recKRpAxD2UgK2tSy</Days>
+      <Days>rechFCdEGffX9KnfR</Days>
+      <Days>recB9wr5lGa6NZZ3t</Days>
+      <Days>recgcT7JiuY5I4VcS</Days>
+      <Days>recyV2anELmAmMxth</Days>
+      <Days>recaDtAxfe6CZ04j4</Days>
+      <Days>recJVeKT3efG1tzp0</Days>
+      <Days>recKGgb9jt7aP9CtG</Days>
+      <Days>recHBnAJvOsUuYbd1</Days>
+      <Days>recy3eIX5ViJq4Ovi</Days>
+      <Days>recpf0aC0DGSKGJVC</Days>
+      <Days>recWQs3627PKAjVvo</Days>
+      <Days>rec3WwHZZs71MGRSm</Days>
+      <Days>recmv5Z8U5Aa0gEe3</Days>
+      <Days>recTAPoQOd2W5dTVR</Days>
+      <Name>2020</Name>
+    </Year>
+    <Year>
+      <YearId>recWjmh7OAHy95RVd</YearId>
+      <createdTime>2022-10-29T19:34:49Z</createdTime>
+      <Days>reci4PwB9gx2Lodq4</Days>
+      <Days>recfXntfvVj3Bz8MQ</Days>
+      <Days>recH6gipl9WoiV9En</Days>
+      <Days>recvufATcSpL5Oetr</Days>
+      <Days>rec7OaHJpq8XQKzTs</Days>
+      <Days>reczAMrtvrniiUi4v</Days>
+      <Days>recACKeZhvBuOazPY</Days>
+      <Days>recIei91d9shyKBBI</Days>
+      <Days>rec6wCzaUPa83yN8h</Days>
+      <Days>rectyll9OoeVK6cYz</Days>
+      <Days>recfGKSLG5t0n2zLt</Days>
+      <Days>recyhZtHB9xPrLo3d</Days>
+      <Days>reckouvGedqUB7flx</Days>
+      <Days>recle62bQald8F4G8</Days>
+      <Days>rechv8rFRfRUHZjRh</Days>
+      <Days>rec8TTBtxf1ad4N11</Days>
+      <Days>recqTMVeAkugOoJaD</Days>
+      <Days>recmbXUln9PZW93z1</Days>
+      <Days>recV6R4k2fFTpLbca</Days>
+      <Days>rec5gv5Fe4gNAe5Xp</Days>
+      <Days>recNvvyXADryArpYr</Days>
+      <Days>rec3rcMoepKEA6lRY</Days>
+      <Days>recwmlGx0PLwdaeY1</Days>
+      <Days>recWgcn7XsWpGvIbT</Days>
+      <Days>recaU0mH5OSyY19oZ</Days>
+      <Name>2022</Name>
+    </Year>
+    <Year>
+      <YearId>reccjx65Ax8Dbo5G6</YearId>
+      <createdTime>2022-10-29T19:34:40Z</createdTime>
+      <Days>recYxR1fF3a2DghD4</Days>
+      <Days>rec2MHnFrAumuQUnu</Days>
+      <Days>recAH7Y9sNy4WNDcu</Days>
+      <Days>reca6VDfBoN4ol2gA</Days>
+      <Days>recpxXiwPoiXIW4Mk</Days>
+      <Days>rec3RwxFm82Ye2whp</Days>
+      <Days>rec8FBtudJIvOZPVO</Days>
+      <Days>rec29fc30js1awgu0</Days>
+      <Days>recCFZYn7ZGxozrKd</Days>
+      <Days>recaAgn3NOZlXiDCE</Days>
+      <Days>recc3HPLE3rw4gflS</Days>
+      <Days>recyTjoqoodzF7zXO</Days>
+      <Days>recf4C6tO84LHYAkO</Days>
+      <Days>recBfPfpW3EHt9ki3</Days>
+      <Days>recXOqFjiqExrJbRo</Days>
+      <Days>recZmjvImuiIpNfr2</Days>
+      <Days>recKd9EUFyVpTA87e</Days>
+      <Days>recmZGE5UKhGQfmIl</Days>
+      <Days>recatYeiHwhSmRmZk</Days>
+      <Days>recnIvIIOgRYbuLD6</Days>
+      <Days>recXpG9X16fKsDpht</Days>
+      <Days>rec2hCB9BHqzETUIj</Days>
+      <Days>rec9XfCznBbllqZxH</Days>
+      <Days>recP9i8Md0vPIOAkF</Days>
+      <Days>reciADA1ETrLYaKXL</Days>
+      <Name>2019</Name>
+    </Year>
+  </Years>
+  <Days>
+    <Day>
+      <DayId>rec0icNe3PJnk4w49</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>16</Day>
+      <Name>day-2021-16</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/16</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec10Ltr0GZezpoIA</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>10</Day>
+      <Name>day-2021-10</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/10</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec29fc30js1awgu0</DayId>
+      <createdTime>2022-01-08T23:07:51Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>08</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-08</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/08</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec2MHnFrAumuQUnu</DayId>
+      <createdTime>2022-01-08T23:07:26Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>02</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-02</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/02</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec2hCB9BHqzETUIj</DayId>
+      <createdTime>2022-01-08T23:07:54Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>22</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-22</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/22</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec2x1RIYI9PJltvt</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>21</Day>
+      <Name>day-2021-21</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/21</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec3RwxFm82Ye2whp</DayId>
+      <createdTime>2022-01-08T23:07:50Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>06</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-06</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/06</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec3WwHZZs71MGRSm</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>23</Day>
+      <Name>day-2020-23</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/23</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec3rcMoepKEA6lRY</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>22</Day>
+      <Name>day-2022-22</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/22</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec5gv5Fe4gNAe5Xp</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>20</Day>
+      <Name>day-2022-20</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/20</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec6VJsqEuquMWudp</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>05</Day>
+      <Name>day-2020-05</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/05</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec6wCzaUPa83yN8h</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>09</Day>
+      <Name>day-2022-09</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/09</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec7OaHJpq8XQKzTs</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>05</Day>
+      <Name>day-2022-05</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/05</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec7stTuJec9hLo1L</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>24</Day>
+      <Name>day-2021-24</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/24</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec80x2Mu6ZaJHTid</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>15</Day>
+      <Name>day-2021-15</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/15</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec8FBtudJIvOZPVO</DayId>
+      <createdTime>2022-01-08T23:07:51Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>07</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-07</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/07</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec8TTBtxf1ad4N11</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>16</Day>
+      <Name>day-2022-16</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/16</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec9XfCznBbllqZxH</DayId>
+      <createdTime>2022-01-08T23:07:54Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>23</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-23</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/23</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rec9pN7gzwGFc7Ort</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>07</Day>
+      <Name>day-2021-07</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/07</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recA6MdP37TaLNhsX</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>02</Day>
+      <Name>day-2020-02</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/02</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recACKeZhvBuOazPY</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>07</Day>
+      <Name>day-2022-07</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/07</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recAH7Y9sNy4WNDcu</DayId>
+      <createdTime>2022-01-08T23:07:26Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>03</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-03</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/03</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recB9wr5lGa6NZZ3t</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>13</Day>
+      <Name>day-2020-13</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/13</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recBIdrUcUcyiZN9r</DayId>
+      <createdTime>2022-10-29T19:35:57Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>01</Day>
+      <Name>day-2020-01</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/01</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recBLQn4E3OhqT8Uc</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>11</Day>
+      <Name>day-2021-11</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/11</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recBfPfpW3EHt9ki3</DayId>
+      <createdTime>2022-01-08T23:07:52Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>14</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-14</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/14</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recCFZYn7ZGxozrKd</DayId>
+      <createdTime>2022-01-08T23:07:51Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>09</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-09</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/09</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recCliETHCQstpkG2</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>04</Day>
+      <Name>day-2020-04</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/04</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recH6gipl9WoiV9En</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>03</Day>
+      <Name>day-2022-03</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/03</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recHBnAJvOsUuYbd1</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>19</Day>
+      <Name>day-2020-19</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/19</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recIei91d9shyKBBI</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>08</Day>
+      <Name>day-2022-08</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/08</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recJVeKT3efG1tzp0</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>17</Day>
+      <Name>day-2020-17</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/17</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recKGgb9jt7aP9CtG</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>18</Day>
+      <Name>day-2020-18</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/18</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recKRpAxD2UgK2tSy</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>11</Day>
+      <Name>day-2020-11</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/11</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recKd9EUFyVpTA87e</DayId>
+      <createdTime>2022-01-08T23:07:53Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>17</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-17</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/17</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recL7vS2Ng7qCks7E</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>17</Day>
+      <Name>day-2021-17</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/17</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recN78pO2gopaRoIR</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>25</Day>
+      <Name>day-2021-25</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/25</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recNvvyXADryArpYr</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>21</Day>
+      <Name>day-2022-21</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/21</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recP3dhGdzjmhJZWF</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>07</Day>
+      <Name>day-2020-07</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/07</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recP9i8Md0vPIOAkF</DayId>
+      <createdTime>2022-01-08T23:07:54Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>24</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-24</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/24</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recQN8RcHFkAhu2Bi</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>12</Day>
+      <Name>day-2021-12</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/12</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recTAPoQOd2W5dTVR</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>25</Day>
+      <Name>day-2020-25</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/25</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recV6R4k2fFTpLbca</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>19</Day>
+      <Name>day-2022-19</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/19</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recVYXCcvg8T1Gfcd</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>05</Day>
+      <Name>day-2021-05</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/05</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recWQs3627PKAjVvo</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>22</Day>
+      <Name>day-2020-22</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/22</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recWgcn7XsWpGvIbT</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>24</Day>
+      <Name>day-2022-24</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/24</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recXOqFjiqExrJbRo</DayId>
+      <createdTime>2022-01-08T23:07:52Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>15</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-15</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/15</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recXpG9X16fKsDpht</DayId>
+      <createdTime>2022-01-08T23:07:54Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>21</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-21</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/21</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recYxR1fF3a2DghD4</DayId>
+      <createdTime>2022-01-08T23:07:26Z</createdTime>
+      <Assignment>--- Day 1: The Tyranny of the Rocket Equation ---
+Santa has become stranded at the edge of the Solar System while delivering presents to other planets! To accurately calculate his position in space, safely align his warp drive, and return to Earth in time to save Christmas, he needs you to bring him measurements from fifty stars.
+
+Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
+
+The Elves quickly load you into a spacecraft and prepare to launch.
+
+At the first Go / No Go poll, every Elf is Go until the Fuel Counter-Upper. They haven't determined the amount of fuel required yet.
+
+Fuel required to launch a given module is based on its mass. Specifically, to find the fuel required for a module, take its mass, divide by three, round down, and subtract 2.
+
+For example:
+
+For a mass of 12, divide by 3 and round down to get 4, then subtract 2 to get 2.
+For a mass of 14, dividing by 3 and rounding down still yields 4, so the fuel required is also 2.
+For a mass of 1969, the fuel required is 654.
+For a mass of 100756, the fuel required is 33583.
+The Fuel Counter-Upper needs to know the total fuel requirement. To find it, individually calculate the fuel needed for the mass of each module (your puzzle input), then add together all the fuel values.
+
+What is the sum of the fuel requirements for all of the modules on your spacecraft?
+
+To play, please identify yourself via one of these services:</Assignment>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <OnlineGames>recudDCFSz4R7ujD2</OnlineGames>
+      <Answer>3256794</Answer>
+      <SampleInputValues>101005
+139223
+112833
+70247
+131775
+106730
+118388
+138683
+80439
+71060
+120862
+67201
+70617
+79783
+114813
+77907
+78814
+107515
+113507
+81865
+88130
+75120
+66588
+56023
+98080
+128472
+96031
+118960
+54069
+112000
+62979
+105518
+73342
+52270
+128841
+68267
+70789
+94792
+100738
+102331
+83082
+77124
+97360
+86165
+66120
+139042
+50390
+105308
+94607
+58225
+77894
+118906
+127277
+101446
+58897
+93876
+53312
+117154
+77448
+62041
+99069
+87375
+134854
+108561
+126406
+53809
+90760
+121650
+79573
+134734
+148021
+84263
+54390
+132706
+148794
+67302
+146885
+76108
+76270
+54548
+146920
+145282
+129509
+144139
+141713
+62547
+149898
+96746
+83583
+107758
+63912
+142036
+112281
+91775
+75809
+82250
+144667
+140140
+98276
+103479</SampleInputValues>
+      <Day>01</Day>
+      <Status>In progress</Status>
+      <Subject>The Tyranny of the Rocket Equation</Subject>
+      <Part2>--- Part Two ---
+During the second Go / No Go poll, the Elf in charge of the Rocket Equation Double-Checker stops the launch sequence. Apparently, you forgot to include additional fuel for the fuel you just added.
+
+Fuel itself requires fuel just like a module - take its mass, divide by three, round down, and subtract 2. However, that fuel also requires fuel, and that fuel requires fuel, and so on. Any mass that would require negative fuel should instead be treated as if it requires zero fuel; the remaining mass, if any, is instead handled by wishing really hard, which has no mass and is outside the scope of this calculation.
+
+So, for each module mass, calculate its fuel and add it to the total. Then, treat the fuel amount you just calculated as the input mass and repeat the process, continuing until a fuel requirement is zero or negative. For example:
+
+A module of mass 14 requires 2 fuel. This fuel requires no further fuel (2 divided by 3 and rounded down is 0, which would call for a negative fuel), so the total fuel required is still just 2.
+At first, a module of mass 1969 requires 654 fuel. Then, this fuel requires 216 more fuel (654 / 3 - 2). 216 then requires 70 more fuel, which requires 21 fuel, which requires 5 fuel, which requires no further fuel. So, the total fuel required for a module of mass 1969 is 654 + 216 + 70 + 21 + 5 = 966.
+The fuel required by a module of mass 100756 and its fuel is: 33583 + 11192 + 3728 + 1240 + 411 + 135 + 43 + 12 + 2 = 50346.
+What is the sum of the fuel requirements for all of the modules on your spacecraft when also taking into account the mass of the added fuel? (Calculate the fuel requirements for each module separately, then add them all up at the end.)</Part2>
+      <Name>day-2019-01</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/01</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recZmjvImuiIpNfr2</DayId>
+      <createdTime>2022-01-08T23:07:53Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>16</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-16</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/16</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reca6VDfBoN4ol2gA</DayId>
+      <createdTime>2022-01-08T23:07:48Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>04</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-04</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/04</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recaAgn3NOZlXiDCE</DayId>
+      <createdTime>2022-01-08T23:07:51Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>10</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-10</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/10</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recaDtAxfe6CZ04j4</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>16</Day>
+      <Name>day-2020-16</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/16</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recaU0mH5OSyY19oZ</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>25</Day>
+      <Name>day-2022-25</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/25</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recatYeiHwhSmRmZk</DayId>
+      <createdTime>2022-01-08T23:07:53Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>19</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-19</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/19</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recc3HPLE3rw4gflS</DayId>
+      <createdTime>2022-01-08T23:07:51Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>11</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-11</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/11</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reccoHvY3ESxMzm1o</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>08</Day>
+      <Name>day-2020-08</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/08</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recdD5khHA3LXJSY1</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>22</Day>
+      <Name>day-2021-22</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/22</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recdY4E4VYgIJaoKp</DayId>
+      <createdTime>2022-10-29T19:38:53Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>01</Day>
+      <Name>day-2021-01</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/01</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rece5kCIjsQ3GZQ8o</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>09</Day>
+      <Name>day-2020-09</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/09</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recf4C6tO84LHYAkO</DayId>
+      <createdTime>2022-01-08T23:07:52Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>13</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-13</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/13</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recfGKSLG5t0n2zLt</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>11</Day>
+      <Name>day-2022-11</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/11</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recfXntfvVj3Bz8MQ</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>02</Day>
+      <Name>day-2022-02</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/02</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recgXyU0CBiQjGTQY</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>03</Day>
+      <Name>day-2021-03</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/03</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recgcT7JiuY5I4VcS</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>14</Day>
+      <Name>day-2020-14</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/14</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rechFCdEGffX9KnfR</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>12</Day>
+      <Name>day-2020-12</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/12</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rechNeyGdnm6iNaz9</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>02</Day>
+      <Name>day-2021-02</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/02</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rechv8rFRfRUHZjRh</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>15</Day>
+      <Name>day-2022-15</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/15</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reci4PwB9gx2Lodq4</DayId>
+      <createdTime>2022-10-29T19:38:55Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>01</Day>
+      <Name>day-2022-01</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/01</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reciADA1ETrLYaKXL</DayId>
+      <createdTime>2022-01-08T23:07:54Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>25</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-25</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/25</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reciyCqZGYy0WaImK</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>14</Day>
+      <Name>day-2021-14</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/14</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reckouvGedqUB7flx</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>13</Day>
+      <Name>day-2022-13</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/13</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recle62bQald8F4G8</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>14</Day>
+      <Name>day-2022-14</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/14</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recm5BG34hdoA9N3h</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>09</Day>
+      <Name>day-2021-09</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/09</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recmZGE5UKhGQfmIl</DayId>
+      <createdTime>2022-01-08T23:07:53Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>18</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-18</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/18</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recmbXUln9PZW93z1</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>18</Day>
+      <Name>day-2022-18</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/18</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recmv5Z8U5Aa0gEe3</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>24</Day>
+      <Name>day-2020-24</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/24</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recnIvIIOgRYbuLD6</DayId>
+      <createdTime>2022-01-08T23:07:53Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>20</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-20</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/20</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recnm8SF1o7EYKs3X</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>03</Day>
+      <Name>day-2020-03</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/03</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recok2Vh2wf7BhzyE</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>04</Day>
+      <Name>day-2021-04</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/04</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recokScS1RhQkTwkH</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>20</Day>
+      <Name>day-2021-20</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/20</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recpf0aC0DGSKGJVC</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>21</Day>
+      <Name>day-2020-21</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/21</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recpkvUeAwv79cIEE</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>23</Day>
+      <Name>day-2021-23</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/23</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recpxXiwPoiXIW4Mk</DayId>
+      <createdTime>2022-01-08T23:07:48Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>05</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-05</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/05</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recqTMVeAkugOoJaD</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>17</Day>
+      <Name>day-2022-17</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/17</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rectGtvlFTmrJEbce</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>06</Day>
+      <Name>day-2021-06</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/06</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>rectyll9OoeVK6cYz</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>10</Day>
+      <Name>day-2022-10</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/10</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recv0J4hJI1IUcuQ1</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>06</Day>
+      <Name>day-2020-06</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/06</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recvAOLUt0Ma8vMTJ</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>13</Day>
+      <Name>day-2021-13</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/13</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recvHraRzk02ps3P4</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>19</Day>
+      <Name>day-2021-19</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/19</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recvTCbbY6lAhsmiz</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>08</Day>
+      <Name>day-2021-08</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/08</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recvufATcSpL5Oetr</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>04</Day>
+      <Name>day-2022-04</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/04</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recwmlGx0PLwdaeY1</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>23</Day>
+      <Name>day-2022-23</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/23</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recy3eIX5ViJq4Ovi</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>20</Day>
+      <Name>day-2020-20</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/20</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recyTjoqoodzF7zXO</DayId>
+      <createdTime>2022-01-08T23:07:52Z</createdTime>
+      <Year>reccjx65Ax8Dbo5G6</Year>
+      <Day>12</Day>
+      <Status>Todo</Status>
+      <Name>day-2019-12</Name>
+      <LinkToAssignment>https://adventofcode.com/2019/day/12</LinkToAssignment>
+      <YearNumber>2019</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recyV2anELmAmMxth</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>15</Day>
+      <Name>day-2020-15</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/15</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recyhZtHB9xPrLo3d</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>12</Day>
+      <Name>day-2022-12</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/12</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recyu34xmFLskR4YU</DayId>
+      <createdTime>2022-10-29T19:39:18Z</createdTime>
+      <Year>recNX04Q9JIqUOPvq</Year>
+      <Day>10</Day>
+      <Name>day-2020-10</Name>
+      <LinkToAssignment>https://adventofcode.com/2020/day/10</LinkToAssignment>
+      <YearNumber>2020</YearNumber>
+    </Day>
+    <Day>
+      <DayId>recz1ZkeQ309IBIvU</DayId>
+      <createdTime>2022-10-29T19:39:16Z</createdTime>
+      <Year>rec5wie1foK4dvWlb</Year>
+      <Day>18</Day>
+      <Name>day-2021-18</Name>
+      <LinkToAssignment>https://adventofcode.com/2021/day/18</LinkToAssignment>
+      <YearNumber>2021</YearNumber>
+    </Day>
+    <Day>
+      <DayId>reczAMrtvrniiUi4v</DayId>
+      <createdTime>2022-10-29T19:39:13Z</createdTime>
+      <Year>recWjmh7OAHy95RVd</Year>
+      <Day>06</Day>
+      <Name>day-2022-06</Name>
+      <LinkToAssignment>https://adventofcode.com/2022/day/06</LinkToAssignment>
+      <YearNumber>2022</YearNumber>
+    </Day>
+  </Days>
+</Airtable>

@@ -1,0 +1,71 @@
+{
+  "ShowHidden": false,
+  "ShowAllFiles": false,
+  "SaveDisabled": false,
+  "SSoTmeProjectId": "4ab45f5d-a381-407a-98a1-2350f21ca75c",
+  "Name": "advent-of-code",
+  "ProjectSettings": [
+    {
+      "ProjectSettingId": "cee5fb23-dec0-43be-9d10-1aabe6e2c54c",
+      "Name": "project-name",
+      "Value": "advent-of-code"
+    }
+  ],
+  "ProjectTranspilers": [
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "7509d826-79f7-4a43-97b2-136b1f548a5f",
+      "Name": "AirtableToXml",
+      "RelativePath": "/SSoT",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "4b713f03-1d9f-42f2-b02f-e3cdbd237bb3",
+        "Name": "XmlXsltTransform",
+        "Description": "Given an Xml and Xslt file, will process and \"split\" a resulting fileset."
+      },
+      "ProjectTranspilerId": "5eee8029-af84-452a-b0fd-1b6cf8226db2",
+      "Name": "XmlXsltTransform",
+      "RelativePath": "/SSoT",
+      "CommandLine": "xml-xslt-transform -i .\\Airtable.xml -i CreateAoCSSoT.xslt"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "4b713f03-1d9f-42f2-b02f-e3cdbd237bb3",
+        "Name": "XmlXsltTransform",
+        "Description": "Given an Xml and Xslt file, will process and \"split\" a resulting fileset."
+      },
+      "ProjectTranspilerId": "82d92d08-21ad-4f11-8046-e35ccf06bab5",
+      "Name": "XmlXsltTransform",
+      "RelativePath": "/years",
+      "CommandLine": "xml-xslt-transform -i ../SSoT/AoCSSoT.xml -i CreateYears.xslt"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "953c9fb7-54be-48e7-8952-a72f41696880",
+      "Name": "AirtableToXml",
+      "RelativePath": "/years/2019/day-2019-01/SSoT",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF -i Entities.json -o SSoT201901.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "ddf944bc-c3dc-4e22-b454-9276182c5ade",
+      "Name": "AirtableToXml",
+      "RelativePath": "/years",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF"
+    }
+  ]
+}
