@@ -1,3 +1,5 @@
 /.ssotme/**/*.zfs
-/.vs/**/*
 /DSPXml/SSoTmeProject.spxml
+**/.vs/**/*
+**/bin/**/*
+**/obj/**/*

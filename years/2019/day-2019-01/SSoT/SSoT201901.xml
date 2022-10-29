@@ -1,39 +1,43 @@
 <Airtable>
   <Entities>
     <Entity>
-      <Name>Module</Name>
-      <PluralName>Modules</PluralName>
-      <AirtableName>201901-Modules</AirtableName>
+      <Name>QuantityOfMass</Name>
+      <PluralName>QuantitiesOfMass</PluralName>
+      <AirtableName>201901-QuantitiesOfMass</AirtableName>
     </Entity>
   </Entities>
-  <Modules>
-    <Module>
-      <ModuleId>recXTmz9PJvU0LRYe</ModuleId>
+  <QuantitiesOfMass>
+    <QuantityOfMass>
+      <QuantityOfMassId>recXTmz9PJvU0LRYe</QuantityOfMassId>
       <createdTime>2022-10-29T19:54:17Z</createdTime>
       <Mass>100756</Mass>
       <Group>example</Group>
       <FuelRequired>33583</FuelRequired>
-    </Module>
-    <Module>
-      <ModuleId>recnU0XkZpMOQWv4J</ModuleId>
+      <FinalFuelRequired>50346</FinalFuelRequired>
+    </QuantityOfMass>
+    <QuantityOfMass>
+      <QuantityOfMassId>recnU0XkZpMOQWv4J</QuantityOfMassId>
       <createdTime>2022-01-08T23:08:33Z</createdTime>
       <Mass>1969</Mass>
       <Group>example</Group>
       <FuelRequired>654</FuelRequired>
-    </Module>
-    <Module>
-      <ModuleId>recrQncqNjB14unRw</ModuleId>
+      <FinalFuelRequired>966</FinalFuelRequired>
+    </QuantityOfMass>
+    <QuantityOfMass>
+      <QuantityOfMassId>recrQncqNjB14unRw</QuantityOfMassId>
       <createdTime>2022-01-08T23:08:33Z</createdTime>
       <Mass>12</Mass>
       <Group>example</Group>
       <FuelRequired>2</FuelRequired>
-    </Module>
-    <Module>
-      <ModuleId>recvO87EYuYY8TNK3</ModuleId>
+      <FinalFuelRequired>2</FinalFuelRequired>
+    </QuantityOfMass>
+    <QuantityOfMass>
+      <QuantityOfMassId>recvO87EYuYY8TNK3</QuantityOfMassId>
       <createdTime>2022-01-08T23:08:33Z</createdTime>
       <Mass>14</Mass>
       <Group>example</Group>
       <FuelRequired>2</FuelRequired>
-    </Module>
-  </Modules>
+      <FinalFuelRequired>2</FinalFuelRequired>
+    </QuantityOfMass>
+  </QuantitiesOfMass>
 </Airtable>

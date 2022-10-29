@@ -1,9 +1,9 @@
 {
   "Entities": [
     {
-      "AirtableName": "201901-Modules",
-      "Name": "Module",
-      "PluralName": "Modules"
+      "Name": "QuantityOfMass",
+      "AirtableName": "201901-QuantitiesOfMass",
+      "PluralName": "QuantitiesOfMass"
     }
   ]
 }

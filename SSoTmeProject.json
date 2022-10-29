@@ -66,6 +66,28 @@
       "Name": "AirtableToXml",
       "RelativePath": "/years",
       "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "115c5d82-5cb8-4765-80df-32468b589fd5",
+        "Name": "AirtableXmlToOdxml",
+        "Description": "Airtable Xml To Odxml"
+      },
+      "ProjectTranspilerId": "14a11ede-9422-41a1-9def-9c33e0f7be10",
+      "Name": "XmlToOdxml",
+      "RelativePath": "/years/2019/day-2019-01/ODXML",
+      "CommandLine": "airtable/airtable-xml-to-odxml -i ../SSoT/SSoT201901.xml -o DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "595b7fe7-7f64-44c2-b48c-d096d997211f",
+        "Name": "OdxmlToCSharpPOCOs",
+        "Description": "Odxml To CSharp POCOs"
+      },
+      "ProjectTranspilerId": "ce217397-01b4-47d2-889e-fdf2b123561f",
+      "Name": "OdxmlToCSharpPOCOs",
+      "RelativePath": "/years/2019/day-2019-01/Solution/TestProject1/TestProject1",
+      "CommandLine": "odxml42/odxml-to-csharp-pocos -i ../../../ODXML/DataSchema.odxml"
     }
   ]
 }
