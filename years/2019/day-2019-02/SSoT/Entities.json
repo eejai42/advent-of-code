@@ -1,0 +1,19 @@
+{
+  "Entities": [
+    {
+        "Name": "OPCode",
+        "AirtableName": "201902-OPCodes",
+        "PluralName": "OPCodes"
+    },
+    {
+        "Name": "InternalOperation",
+        "AirtableName": "201902-Operations",
+        "PluralName": "InternalOperations"
+    },
+    {
+        "Name": "Position",
+        "AirtableName": "201902-Positions",
+        "PluralName": "Positions"
+    }
+  ]
+}

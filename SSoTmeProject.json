@@ -51,21 +51,10 @@
         "Name": "AirtableToXml",
         "Description": "Extracts the contents of an airtable base as a single Xml file."
       },
-      "ProjectTranspilerId": "953c9fb7-54be-48e7-8952-a72f41696880",
+      "ProjectTranspilerId": "519ca0d5-a975-466d-9f3b-c1ea95be7d27",
       "Name": "AirtableToXml",
       "RelativePath": "/years/2019/day-2019-01/SSoT",
       "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF -i Entities.json -o SSoT201901.xml"
-    },
-    {
-      "MatchedTranspiler": {
-        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
-        "Name": "AirtableToXml",
-        "Description": "Extracts the contents of an airtable base as a single Xml file."
-      },
-      "ProjectTranspilerId": "ddf944bc-c3dc-4e22-b454-9276182c5ade",
-      "Name": "AirtableToXml",
-      "RelativePath": "/years",
-      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF"
     },
     {
       "MatchedTranspiler": {
@@ -73,7 +62,7 @@
         "Name": "AirtableXmlToOdxml",
         "Description": "Airtable Xml To Odxml"
       },
-      "ProjectTranspilerId": "14a11ede-9422-41a1-9def-9c33e0f7be10",
+      "ProjectTranspilerId": "b50118ec-5488-4d3f-988f-e45b15f646c6",
       "Name": "XmlToOdxml",
       "RelativePath": "/years/2019/day-2019-01/ODXML",
       "CommandLine": "airtable/airtable-xml-to-odxml -i ../SSoT/SSoT201901.xml -o DataSchema.odxml"
@@ -84,9 +73,42 @@
         "Name": "OdxmlToCSharpPOCOs",
         "Description": "Odxml To CSharp POCOs"
       },
-      "ProjectTranspilerId": "ce217397-01b4-47d2-889e-fdf2b123561f",
+      "ProjectTranspilerId": "591a80c1-8eca-4c6d-94a0-93ed59af2ca6",
       "Name": "OdxmlToCSharpPOCOs",
       "RelativePath": "/years/2019/day-2019-01/Solution/TestProject1/TestProject1",
+      "CommandLine": "odxml42/odxml-to-csharp-pocos -i ../../../ODXML/DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "953c9fb7-54be-48e7-8952-a72f41696880",
+      "Name": "AirtableToXml",
+      "RelativePath": "/years/2019/day-2019-02/SSoT",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF -i Entities.json -o SSoT201902.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "115c5d82-5cb8-4765-80df-32468b589fd5",
+        "Name": "AirtableXmlToOdxml",
+        "Description": "Airtable Xml To Odxml"
+      },
+      "ProjectTranspilerId": "14a11ede-9422-41a1-9def-9c33e0f7be10",
+      "Name": "XmlToOdxml",
+      "RelativePath": "/years/2019/day-2019-02/ODXML",
+      "CommandLine": "airtable/airtable-xml-to-odxml -i ../SSoT/SSoT201902.xml -o DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "595b7fe7-7f64-44c2-b48c-d096d997211f",
+        "Name": "OdxmlToCSharpPOCOs",
+        "Description": "Odxml To CSharp POCOs"
+      },
+      "ProjectTranspilerId": "ce217397-01b4-47d2-889e-fdf2b123561f",
+      "Name": "OdxmlToCSharpPOCOs",
+      "RelativePath": "/years/2019/day-2019-02/Solution/TestProject2/TestProject2",
       "CommandLine": "odxml42/odxml-to-csharp-pocos -i ../../../ODXML/DataSchema.odxml"
     }
   ]

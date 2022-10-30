@@ -37,11 +37,11 @@ namespace adventofcode.Lib.DataClasses
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "Group")]
         public String Group { get; set; }
     
-        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "FuelRequired")]
-        public Nullable<Int32> FuelRequired { get; set; }
-    
         [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "FinalFuelRequired")]
         public Nullable<Int32> FinalFuelRequired { get; set; }
+    
+        [JsonProperty(DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate, PropertyName = "FuelRequired")]
+        public Nullable<Int32> FuelRequired { get; set; }
     
 
         
