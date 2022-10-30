@@ -4,9 +4,8 @@ namespace TestProject2
 {
     public class Program
     {
-        public Program()
+        public Program(string data)
         {
-            var data = File.ReadAllText("../../../TestData.txt");
             var positionValues = data.Split(",".ToCharArray());
             this.IndexedPositions = new List<Position>();
             for (int i = 0; i < positionValues.Length; i++)
@@ -25,9 +24,11 @@ namespace TestProject2
         public Position Value2 { get { return this.IndexedPositions[this.CurrentIndex + 2]; } }
         public Position Target { get { return this.IndexedPositions[this.CurrentIndex + 3]; } }
 
+        public int Result { get; private set; }
 
         internal void Process()
         {
+            this.CurrentIndex = 0;
             while (this.Current.OPCodeFunction != "HALT")
             {
                 Console.WriteLine(this.Current);
@@ -38,6 +39,7 @@ namespace TestProject2
                 this.WriteValue(this.Target, result);
                 this.CurrentIndex += 4;
             }
+            this.Result = this.IndexedPositions[0].Value.Value;
         }
 
         private void WriteValue(Position target, int result)
@@ -49,7 +51,7 @@ namespace TestProject2
         private int OperateOn(int value1, int value2)
         {
             if (this.Current.OPCodeFunction == "ADD") return value1 + value2;
-            else if (this.Current.OPCodeFunction == "MULTIPLY") return value2 * value2;
+            else if (this.Current.OPCodeFunction == "MULTIPLY") return value1 * value2;
             else throw new Exception("Unexpected function");
         }
 
