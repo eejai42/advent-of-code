@@ -23,7 +23,6 @@
       <DrawScore>4</DrawScore>
       <WinScore>7</WinScore>
       <SuggestionSampleRounds>recV9FjHH3Tw3i8Gc</SuggestionSampleRounds>
-      <SuggestionSampleRounds>recUgyAotWY1juJ9y</SuggestionSampleRounds>
       <OpponentSampleRounds>recTzimB7GCm2Gg7R</OpponentSampleRounds>
       <Name>Rock</Name>
       <OpponentCode>A</OpponentCode>
@@ -319,6 +318,7 @@
       <StrategyLossScore>0</StrategyLossScore>
       <StrategyDrawScore>3</StrategyDrawScore>
       <StrategyWinScore>6</StrategyWinScore>
+      <SuggestionSampleRounds>recUgyAotWY1juJ9y</SuggestionSampleRounds>
     </Sign>
   </Signs>
   <SampleRounds>
@@ -349,18 +349,18 @@
       <SampleGame>recYckn5Zqf0rZLa9</SampleGame>
       <Notes>The third round is a draw with both players choosing Scissors, giving you a score of 3 + 3 = 6.</Notes>
       <Opponent>recFLTerJGL8S79ql</Opponent>
-      <Name>C-&gt;X</Name>
+      <Name>C-&gt;Z</Name>
       <OppenentCode>C</OppenentCode>
-      <RoundStatus>Win</RoundStatus>
+      <RoundStatus>Draw</RoundStatus>
       <OpponentPlays>Scissors</OpponentPlays>
-      <Suggestion>recAZeExB21D8dfiA</Suggestion>
-      <SuggestionCode>X</SuggestionCode>
-      <SuggestionName>Rock</SuggestionName>
-      <SuggestionThrowValue>1</SuggestionThrowValue>
-      <WinScore>7</WinScore>
-      <LossScore>1</LossScore>
-      <DrawScore>4</DrawScore>
-      <Score>7</Score>
+      <Suggestion>recFLTerJGL8S79ql</Suggestion>
+      <SuggestionCode>Z</SuggestionCode>
+      <SuggestionName>Scissors</SuggestionName>
+      <SuggestionThrowValue>3</SuggestionThrowValue>
+      <WinScore>9</WinScore>
+      <LossScore>3</LossScore>
+      <DrawScore>6</DrawScore>
+      <Score>6</Score>
       <OppenentWinsAgainst>Paper</OppenentWinsAgainst>
       <OppenentLosesTo>Rock</OppenentLosesTo>
     </SampleRound>
@@ -394,8 +394,8 @@
       <SampleRounds>recV9FjHH3Tw3i8Gc</SampleRounds>
       <SampleRounds>recUgyAotWY1juJ9y</SampleRounds>
       <Name>SampleGame</Name>
-      <GameScore>16</GameScore>
-      <SampleRoundNames>A-&gt;Y, B-&gt;X, C-&gt;X</SampleRoundNames>
+      <GameScore>15</GameScore>
+      <SampleRoundNames>A-&gt;Y, B-&gt;X, C-&gt;Z</SampleRoundNames>
       <LossScore>0</LossScore>
       <ScoringStragies>recIbPjyPerdD3IBy</ScoringStragies>
       <WinScore>6</WinScore>

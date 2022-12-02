@@ -57,7 +57,7 @@ For example, suppose you were given the following strategy guide:
 
 A->Y
 B->X
-C->X
+C->Z
 
 This strategy guide predicts and recommends the following:
 
@@ -82,18 +82,18 @@ This strategy guide predicts and recommends the following:
 
  - **"Purple" Notes:** In the second round, your opponent will choose Paper (B), and you should choose Rock (X). This ends in a loss for you with a score of 1 (1 + 0).
 
-**C->X**
+**C->Z**
 
  - **Opponent Chooses:** Scissors   (C)
- - **You should play:** Rock (X)
- - **Result:** Win
- - **Final Score:** 1 + 6 = 7
+ - **You should play:** Scissors (Z)
+ - **Result:** Draw
+ - **Final Score:** 3 + 3 = 6
 
  - **"Purple" Notes:** The third round is a draw with both players choosing Scissors, giving you a score of 3 + 3 = 6.
 
 
     In this example, if you were to follow the strategy guide, 
-you would get a total score of 16 (8  + 1  + 7 ).
+you would get a total score of 15 (8  + 1  + 6 ).
 
 
 

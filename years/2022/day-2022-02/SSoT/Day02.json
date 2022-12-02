@@ -57,8 +57,8 @@
         "SampleGames": {
           "SampleGame": {
             "Name": "SampleGame",
-            "GameScore": "16",
-            "SampleRoundNames": "A->Y, B->X, C->X",
+            "GameScore": "15",
+            "SampleRoundNames": "A->Y, B->X, C->Z",
             "SampleRound": [
               {
                 "Name": "A->Y",
@@ -87,14 +87,14 @@
                 "OppenentLosesTo": "Scissors"
               },
               {
-                "Name": "C->X",
+                "Name": "C->Z",
                 "OpponentPlays": "Scissors",
                 "OppenentCode": "C",
-                "SuggestionName": "Rock",
-                "SuggestionCode": "X",
-                "RoundStatus": "Win",
-                "Score": "7",
-                "SuggestionThrowValue": "1",
+                "SuggestionName": "Scissors",
+                "SuggestionCode": "Z",
+                "RoundStatus": "Draw",
+                "Score": "6",
+                "SuggestionThrowValue": "3",
                 "Notes": "The third round is a draw with both players choosing Scissors, giving you a score of 3 + 3 = 6.",
                 "OppenentWinsAgainst": "Paper",
                 "OppenentLosesTo": "Rock"
