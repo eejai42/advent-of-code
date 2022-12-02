@@ -22,5 +22,12 @@ namespace TestProject4
             var expectedValue = this.StrategyGuide.GetExpecteGameScore();
             Assert.That(value, Is.EqualTo(12535));
         }
+ 
+        [Test]
+        public void Test2()
+        {
+            Int32 value = this.StrategyGuide.GetTotal2();
+            Assert.That(value, Is.EqualTo(15457));
+        }
     }
 }
