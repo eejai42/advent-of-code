@@ -1,0 +1,75 @@
+<html><head><title>advent-of-code - Single Page Doc s</title><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous" /></head><body style="padding: 0.8em;"><h1>        
+advent-of-code  Data model</h1><a class="btn btn-sm btn-primary" href="Index.html"><<&nbsp;Back Interactive Object Explorer</a><h3>Table of Contents</h3><ol><li><a href="#Sign">Sign</a></li><li><a href="#SampleGame">SampleGame</a></li><li><a href="#SampleRound">SampleRound</a></li></ol><table style="width: 100%"><tr><td colspan="3"><span id="Sign" />
+                <div style="clear: both"></div><div class="row"><div class="col-md-12">
+                        <a name="Sign"></a>
+                        <hr /><h2>
+                            
+                            
+                            
+                            
+                            Sign  
+                        </h2><div style="padding: 0.25em; font-size: 0.8em; font-weight: bold;"></div></div></div></td></tr><tr><th align="left" style="width: 5em;">CRUD</th><th align="left">Name</th><th align="left">Type</th><th align="left">Original Name</th></tr><tr><td style="padding: 0.25em; width: 5em;"><img style="width: 1em;" src="images/primary-key.png" /></td><td>
+                        SignId</td><td>GUID</td><td>__SignId</td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Name</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        OpponentCode</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SuggestionCode</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SuggestionCodeToWin</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SuggestionCodeToLose</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        ValueWhenThrown</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        LossScore</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        DrawScore</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        WinScore</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        WinsAgainstName</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        LosesToName</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Image</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        WinsAgainstImage</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        LosesToImage</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">Sign Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> SignId, Name, OpponentCode, SuggestionCode, SuggestionCodeToWin, SuggestionCodeToLose, ValueWhenThrown, LossScore, DrawScore, WinScore, WinsAgainstName, LosesToName, Image, WinsAgainstImage, LosesToImage
+
+<b>FROM</b> Sign
+
+</div></td></tr><tr><td colspan="3" style="font-size: 0.8em; padding: 0.25em;"></td></tr><tr><td colspan="3"><span id="SampleGame" />
+                <div style="clear: both"></div><div class="row"><div class="col-md-12">
+                        <a name="SampleGame"></a>
+                        <hr /><h2>
+                            
+                            
+                            
+                            
+                            SampleGame  
+                        </h2><div style="padding: 0.25em; font-size: 0.8em; font-weight: bold;"></div></div></div></td></tr><tr><th align="left" style="width: 5em;">CRUD</th><th align="left">Name</th><th align="left">Type</th><th align="left">Original Name</th></tr><tr><td style="padding: 0.25em; width: 5em;"><img style="width: 1em;" src="images/primary-key.png" /></td><td>
+                        SampleGameId</td><td>GUID</td><td>__SampleGameId</td></tr><tr><td style="padding: 0.25em; width: 5em;"><span></span></td><td>
+                                    
+                                    <a href="#">SampleGames</a>
+                                </td><td>Parent</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Name</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        GameScore</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SampleRoundNames</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">SampleGame Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> SampleGameId, Name, GameScore, SampleRoundNames, SampleGames
+
+<b>FROM</b> SampleGame
+
+</div></td></tr><tr><td colspan="3" style="font-size: 0.8em; padding: 0.25em;"></td></tr><tr><td colspan="3"><span id="SampleRound" />
+                <div style="clear: both"></div><div class="row"><div class="col-md-12">
+                        <a name="SampleRound"></a>
+                        <hr /><h2>
+                            
+                            
+                            
+                            
+                            SampleRound  
+                        </h2><div style="padding: 0.25em; font-size: 0.8em; font-weight: bold;"></div></div></div></td></tr><tr><th align="left" style="width: 5em;">CRUD</th><th align="left">Name</th><th align="left">Type</th><th align="left">Original Name</th></tr><tr><td style="padding: 0.25em; width: 5em;"><img style="width: 1em;" src="images/primary-key.png" /></td><td>
+                        SampleRoundId</td><td>GUID</td><td>__SampleRoundId</td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Name</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        OpponentPlays</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        OppenentCode</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SuggestionName</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SuggestionCode</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        RoundStatus</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Score</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        SuggestionThrowValue</td><td>BYTE</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        Notes</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        OppenentWinsAgainst</td><td>TEXT</td><td></td></tr><tr><td style="padding: 0.25em; width: 5em;"></td><td>
+                        OppenentLosesTo</td><td>TEXT</td><td></td></tr><tr><th colspan="3" style="padding-top: 1em;">SampleRound Query</th></tr><tr><td colspan="3"><div style="white-space: pre-wrap; font-size: 0.9em; font-family: monospace; padding: 0.8em;"><b>SELECT</b> SampleRoundId, Name, OpponentPlays, OppenentCode, SuggestionName, SuggestionCode, RoundStatus, Score, SuggestionThrowValue, Notes, OppenentWinsAgainst, OppenentLosesTo
+
+<b>FROM</b> SampleRound
+
+</div></td></tr><tr><td colspan="3" style="font-size: 0.8em; padding: 0.25em;"></td></tr></table></body></html>

@@ -1,0 +1,108 @@
+{
+  "AdventOfCode": {
+    "Year2022": {
+      "Day02": {
+        "Signs": {
+          "Sign": [
+            {
+              "Name": "Rock",
+              "OpponentCode": "A",
+              "SuggestionCode": "X",
+              "SuggestionCodeToWin": "Z",
+              "SuggestionCodeToLose": "Y",
+              "ValueWhenThrown": "1",
+              "LossScore": "1",
+              "DrawScore": "4",
+              "WinScore": "7",
+              "WinsAgainstName": "Scissors",
+              "LosesToName": "Paper",
+              "Image": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/x6PzHfKdU3Y4PXf2nrCH2Q/TcX4B_7OIhBHX20UowTUI0LLbRFIOlgPA2st7B6IauCBUKQLduvZmMjgMQBHFqZu-nyc-eevCoYOL98qfwMvf0dJDEir_ZQw3Qvxq2wQf7SHPNIHoEo80hBt89rBEpI-q5gx-8K6U8zMMc-MDsX9ITkseZ9j9cgB88pqEKCenFw/tO3drd8g7wZyrkbyHCFbE9hRIbh_nvXItGvpqYnMMTQ",
+              "WinsAgainstImage": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/tVMo-F1ISaSeSjpfhRUsRA/qmCiTAQZ7vVjK52PsCgFntLJHYGAjvqTAeYCR741ROHjQ6U6seIGQybu3FdaT27Vb9Snq7sdzKE_28rVSPXxrKgqcHvVrtxyOuXta2Quk9UpF8izjxjuvKIAOWcoaJ5M2COe3jnv080g1NwHgTESxoJC6GIFEAPoSnAkQcEi1fg/6E1oROkQbsY-lSvNzPYSPvHDb3yIckqD9GFKHDhdJX4",
+              "LosesToImage": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/bfKxBLomq8D7Bcghy7dQIA/cJCrESndCdSKlVoa6Ir9ITVGAYlhtF1fqcjiC2Zhp3jeGOr6zEg-PSFxYReJuZPcNzokXQUBvAteTD0N3xVM3yUIWi1Q_Bekzm4PtftVKpVMgQdcgjdlSsUCAbdXSmxA1ZbRH9oEyYLkS_9MQOoBKwSWjtcg0a52wvHwdaYE9kA/gwAN4_dVdT_x4NtTSPzVcktezvVMG0f8zZJPzpuDbg0"
+            },
+            {
+              "Name": "Paper",
+              "OpponentCode": "B",
+              "SuggestionCode": "Y",
+              "SuggestionCodeToWin": "X",
+              "SuggestionCodeToLose": "Z",
+              "ValueWhenThrown": "2",
+              "LossScore": "2",
+              "DrawScore": "5",
+              "WinScore": "8",
+              "WinsAgainstName": "Rock",
+              "LosesToName": "Scissors",
+              "Image": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/bfKxBLomq8D7Bcghy7dQIA/cJCrESndCdSKlVoa6Ir9ITVGAYlhtF1fqcjiC2Zhp3jeGOr6zEg-PSFxYReJuZPcNzokXQUBvAteTD0N3xVM3yUIWi1Q_Bekzm4PtftVKpVMgQdcgjdlSsUCAbdXSmxA1ZbRH9oEyYLkS_9MQOoBKwSWjtcg0a52wvHwdaYE9kA/gwAN4_dVdT_x4NtTSPzVcktezvVMG0f8zZJPzpuDbg0",
+              "WinsAgainstImage": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/x6PzHfKdU3Y4PXf2nrCH2Q/TcX4B_7OIhBHX20UowTUI0LLbRFIOlgPA2st7B6IauCBUKQLduvZmMjgMQBHFqZu-nyc-eevCoYOL98qfwMvf0dJDEir_ZQw3Qvxq2wQf7SHPNIHoEo80hBt89rBEpI-q5gx-8K6U8zMMc-MDsX9ITkseZ9j9cgB88pqEKCenFw/tO3drd8g7wZyrkbyHCFbE9hRIbh_nvXItGvpqYnMMTQ",
+              "LosesToImage": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/tVMo-F1ISaSeSjpfhRUsRA/qmCiTAQZ7vVjK52PsCgFntLJHYGAjvqTAeYCR741ROHjQ6U6seIGQybu3FdaT27Vb9Snq7sdzKE_28rVSPXxrKgqcHvVrtxyOuXta2Quk9UpF8izjxjuvKIAOWcoaJ5M2COe3jnv080g1NwHgTESxoJC6GIFEAPoSnAkQcEi1fg/6E1oROkQbsY-lSvNzPYSPvHDb3yIckqD9GFKHDhdJX4"
+            },
+            {
+              "Name": "Scissors",
+              "OpponentCode": "C",
+              "SuggestionCode": "Z",
+              "SuggestionCodeToWin": "Y",
+              "SuggestionCodeToLose": "X",
+              "ValueWhenThrown": "3",
+              "LossScore": "3",
+              "DrawScore": "6",
+              "WinScore": "9",
+              "WinsAgainstName": "Paper",
+              "LosesToName": "Rock",
+              "Image": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/tVMo-F1ISaSeSjpfhRUsRA/qmCiTAQZ7vVjK52PsCgFntLJHYGAjvqTAeYCR741ROHjQ6U6seIGQybu3FdaT27Vb9Snq7sdzKE_28rVSPXxrKgqcHvVrtxyOuXta2Quk9UpF8izjxjuvKIAOWcoaJ5M2COe3jnv080g1NwHgTESxoJC6GIFEAPoSnAkQcEi1fg/6E1oROkQbsY-lSvNzPYSPvHDb3yIckqD9GFKHDhdJX4",
+              "WinsAgainstImage": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/bfKxBLomq8D7Bcghy7dQIA/cJCrESndCdSKlVoa6Ir9ITVGAYlhtF1fqcjiC2Zhp3jeGOr6zEg-PSFxYReJuZPcNzokXQUBvAteTD0N3xVM3yUIWi1Q_Bekzm4PtftVKpVMgQdcgjdlSsUCAbdXSmxA1ZbRH9oEyYLkS_9MQOoBKwSWjtcg0a52wvHwdaYE9kA/gwAN4_dVdT_x4NtTSPzVcktezvVMG0f8zZJPzpuDbg0",
+              "LosesToImage": "https://v5.airtableusercontent.com/v1/11/11/1669989600000/x6PzHfKdU3Y4PXf2nrCH2Q/TcX4B_7OIhBHX20UowTUI0LLbRFIOlgPA2st7B6IauCBUKQLduvZmMjgMQBHFqZu-nyc-eevCoYOL98qfwMvf0dJDEir_ZQw3Qvxq2wQf7SHPNIHoEo80hBt89rBEpI-q5gx-8K6U8zMMc-MDsX9ITkseZ9j9cgB88pqEKCenFw/tO3drd8g7wZyrkbyHCFbE9hRIbh_nvXItGvpqYnMMTQ"
+            }
+          ]
+        },
+        "SampleGames": {
+          "SampleGame": {
+            "Name": "SampleGame",
+            "GameScore": "16",
+            "SampleRoundNames": "A->Y, B->X, C->X",
+            "SampleRound": [
+              {
+                "Name": "A->Y",
+                "OpponentPlays": "Rock",
+                "OppenentCode": "A",
+                "SuggestionName": "Paper",
+                "SuggestionCode": "Y",
+                "RoundStatus": "Win",
+                "Score": "8",
+                "SuggestionThrowValue": "2",
+                "Notes": "In the first round, your opponent will choose Rock (A), and you should choose Paper (Y). This ends in a win for you with a score of 8 (2 because you chose Paper + 6 because you won).",
+                "OppenentWinsAgainst": "Scissors",
+                "OppenentLosesTo": "Paper"
+              },
+              {
+                "Name": "B->X",
+                "OpponentPlays": "Paper",
+                "OppenentCode": "B",
+                "SuggestionName": "Rock",
+                "SuggestionCode": "X",
+                "RoundStatus": "Loss",
+                "Score": "1",
+                "SuggestionThrowValue": "1",
+                "Notes": "In the second round, your opponent will choose Paper (B), and you should choose Rock (X). This ends in a loss for you with a score of 1 (1 + 0).",
+                "OppenentWinsAgainst": "Rock",
+                "OppenentLosesTo": "Scissors"
+              },
+              {
+                "Name": "C->X",
+                "OpponentPlays": "Scissors",
+                "OppenentCode": "C",
+                "SuggestionName": "Rock",
+                "SuggestionCode": "X",
+                "RoundStatus": "Win",
+                "Score": "7",
+                "SuggestionThrowValue": "1",
+                "Notes": "The third round is a draw with both players choosing Scissors, giving you a score of 3 + 3 = 6.",
+                "OppenentWinsAgainst": "Paper",
+                "OppenentLosesTo": "Rock"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

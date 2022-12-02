@@ -110,6 +110,83 @@
       "Name": "OdxmlToCSharpPOCOs",
       "RelativePath": "/years/2019/day-2019-02/Solution/TestProject2/TestProject2",
       "CommandLine": "odxml42/odxml-to-csharp-pocos -i ../../../ODXML/DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "c0635dce-85db-4b4f-b873-5a2574e76306",
+      "Name": "AirtableToXml",
+      "RelativePath": "/years/2022/day-2022-02/SSoT",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF -p entities=Signs:202202-Signs,SampleRounds:202202-SampleRounds,SampleGames:202202-SampleGames"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "4b713f03-1d9f-42f2-b02f-e3cdbd237bb3",
+        "Name": "XmlXsltTransform",
+        "Description": "Given an Xml and Xslt file, will process and \"split\" a resulting fileset."
+      },
+      "ProjectTranspilerId": "483f731f-6c2c-414b-9d35-eda6df4a5df8",
+      "Name": "XmlXsltTransform",
+      "RelativePath": "/years/2022/day-2022-02/SSoT",
+      "CommandLine": "xml-xslt-transform -i .\\Airtable.xml -i CreateDay2XML.xslt"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "ba509977-74bf-486e-a405-1b2125bd5d15",
+        "Name": "XmlToJson",
+        "Description": "Converts XML to JSON using the NewtonSoft C# conversion tools."
+      },
+      "ProjectTranspilerId": "c743ce7d-7e86-4201-a5a4-01c77198487f",
+      "Name": "XmlToJson",
+      "RelativePath": "/years/2022/day-2022-02/SSoT",
+      "CommandLine": "xml-to-json -i .\\Day02.xml -o Day02.json"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "e1024b67-c0fe-46b0-9181-6a9d15677aec",
+        "Name": "JsonToOdxml",
+        "Description": "Derivess the Schema of a Json file and produces an Odxml description of that schema."
+      },
+      "ProjectTranspilerId": "e85ab93a-4fac-4111-bc82-67b3410043a9",
+      "Name": "JsonToOdxml",
+      "RelativePath": "/years/2022/day-2022-02/ODXML/RAW",
+      "CommandLine": "json-to-odxml -i ..\\..\\SSoT\\Day02.json -o DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "bbea1b94-36ed-44f6-8d99-20ac4c49f982",
+        "Name": "OdxmlToCleanOdxml",
+        "Description": "Allows for any data model to be \"cleaned up\" while preserving a \"map\" between the old/new models"
+      },
+      "ProjectTranspilerId": "ded8ddf3-e1f8-4e67-950e-89d5a6e635b9",
+      "Name": "OdxmlToCleanOdxml",
+      "RelativePath": "/years/2022/day-2022-02/ODXML",
+      "CommandLine": "odxml-to-clean-odxml -i .\\RAW\\DataSchema.odxml -i Renames.xml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "8defe7a3-89cf-4989-b679-d9226519f622",
+        "Name": "OdxmlToNodeJSDocs",
+        "Description": "Creates easy to read/navigate html documentation for an Odxml Schema."
+      },
+      "ProjectTranspilerId": "5abf1226-6766-4d49-85c8-f87966b72d7d",
+      "Name": "OdxmlToNodeJSDocs",
+      "RelativePath": "/years/2022/day-2022-02/docs",
+      "CommandLine": "odxml42/odxml-to-nodejs-docs -i ..\\ODXML\\DataSchema.odxml"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "4b713f03-1d9f-42f2-b02f-e3cdbd237bb3",
+        "Name": "XmlXsltTransform",
+        "Description": "Given an Xml and Xslt file, will process and \"split\" a resulting fileset."
+      },
+      "ProjectTranspilerId": "0f111055-853f-430a-823b-7900fc3d9f2e",
+      "Name": "XmlXsltTransform",
+      "RelativePath": "/years/2022/day-2022-02/docs",
+      "CommandLine": "xml-xslt-transform -i ..\\SSoT\\Day02.xml -i CreateDocs.xslt"
     }
   ]
 }

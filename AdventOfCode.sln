@@ -35,7 +35,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject3", "years\2022\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day-02", "Day-02", "{B5D44A39-41ED-4B83-9033-72DE169BE1F2}"
 	ProjectSection(SolutionItems) = preProject
+		years\2022\day-2022-02\SSoT\Airtable.xml = years\2022\day-2022-02\SSoT\Airtable.xml
+		years\2022\day-2022-02\SSoT\CreateDay2XML.xslt = years\2022\day-2022-02\SSoT\CreateDay2XML.xslt
 		years\2022\day-2022-02\Data.xml = years\2022\day-2022-02\Data.xml
+		years\2022\day-2022-02\SSoT\Day02.xml = years\2022\day-2022-02\SSoT\Day02.xml
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject4", "years\2022\day-2022-02\TestProject4\TestProject4.csproj", "{4EE7677E-8C2B-48A9-88EC-BF6445BA7746}"
