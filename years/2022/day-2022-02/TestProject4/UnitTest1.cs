@@ -20,7 +20,7 @@ namespace TestProject4
         {
             Int32 value = this.StrategyGuide.GetTotal();
             var expectedValue = this.StrategyGuide.GetExpecteGameScore();
-            Assert.That(value, Is.EqualTo(expectedValue));
+            Assert.That(value, Is.EqualTo(12535));
         }
     }
 }
