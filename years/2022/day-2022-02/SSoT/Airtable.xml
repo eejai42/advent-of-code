@@ -20,8 +20,10 @@
     <Sign>
       <SignId>recAZeExB21D8dfiA</SignId>
       <createdTime>2022-12-02T07:11:52Z</createdTime>
-      <DrawScore>4</DrawScore>
-      <WinScore>7</WinScore>
+      <WinsAgainstSign>recFLTerJGL8S79ql</WinsAgainstSign>
+      <ScoringStrategy>recIbPjyPerdD3IBy</ScoringStrategy>
+      <ValueWhenThrown>1</ValueWhenThrown>
+      <LosesToSign>recD9LVaVt3iAzgY6</LosesToSign>
       <SuggestionSampleRounds>recV9FjHH3Tw3i8Gc</SuggestionSampleRounds>
       <OpponentSampleRounds>recTzimB7GCm2Gg7R</OpponentSampleRounds>
       <Name>Rock</Name>
@@ -52,11 +54,14 @@
           </full>
         </thumbnails>
       </Image>
-      <LossScore>1</LossScore>
       <SuggestionCode>X</SuggestionCode>
-      <ValueWhenThrown>1</ValueWhenThrown>
-      <WinsAgainstSign>recFLTerJGL8S79ql</WinsAgainstSign>
+      <LossScore>1</LossScore>
+      <DrawScore>4</DrawScore>
+      <WinScore>7</WinScore>
+      <WinsAgainstName>Scissors</WinsAgainstName>
       <SuggestionCodeToWin>Z</SuggestionCodeToWin>
+      <LosesToName>Paper</LosesToName>
+      <SuggestionCodeToLose>Y</SuggestionCodeToLose>
       <WinsAgainstImage>
         <WinsAgainstImageId>attHuVkkWpXh1aTUK</WinsAgainstImageId>
         <width>1280</width>
@@ -83,9 +88,6 @@
           </full>
         </thumbnails>
       </WinsAgainstImage>
-      <WinsAgainstName>Scissors</WinsAgainstName>
-      <LosesToSign>recD9LVaVt3iAzgY6</LosesToSign>
-      <SuggestionCodeToLose>Y</SuggestionCodeToLose>
       <LosesToImage>
         <LosesToImageId>attUrSl8ofzcPtiUE</LosesToImageId>
         <width>1280</width>
@@ -112,8 +114,6 @@
           </full>
         </thumbnails>
       </LosesToImage>
-      <LosesToName>Paper</LosesToName>
-      <ScoringStrategy>recIbPjyPerdD3IBy</ScoringStrategy>
       <StrategyLossScore>0</StrategyLossScore>
       <StrategyDrawScore>3</StrategyDrawScore>
       <StrategyWinScore>6</StrategyWinScore>
@@ -121,8 +121,10 @@
     <Sign>
       <SignId>recD9LVaVt3iAzgY6</SignId>
       <createdTime>2022-12-02T07:11:52Z</createdTime>
-      <DrawScore>5</DrawScore>
-      <WinScore>8</WinScore>
+      <WinsAgainstSign>recAZeExB21D8dfiA</WinsAgainstSign>
+      <ScoringStrategy>recIbPjyPerdD3IBy</ScoringStrategy>
+      <ValueWhenThrown>2</ValueWhenThrown>
+      <LosesToSign>recFLTerJGL8S79ql</LosesToSign>
       <SuggestionSampleRounds>recTzimB7GCm2Gg7R</SuggestionSampleRounds>
       <OpponentSampleRounds>recV9FjHH3Tw3i8Gc</OpponentSampleRounds>
       <Name>Paper</Name>
@@ -153,11 +155,14 @@
           </full>
         </thumbnails>
       </Image>
-      <LossScore>2</LossScore>
       <SuggestionCode>Y</SuggestionCode>
-      <ValueWhenThrown>2</ValueWhenThrown>
-      <WinsAgainstSign>recAZeExB21D8dfiA</WinsAgainstSign>
+      <LossScore>2</LossScore>
+      <DrawScore>5</DrawScore>
+      <WinScore>8</WinScore>
+      <WinsAgainstName>Rock</WinsAgainstName>
       <SuggestionCodeToWin>X</SuggestionCodeToWin>
+      <LosesToName>Scissors</LosesToName>
+      <SuggestionCodeToLose>Z</SuggestionCodeToLose>
       <WinsAgainstImage>
         <WinsAgainstImageId>att0sPx2x0CVxmF17</WinsAgainstImageId>
         <width>1280</width>
@@ -184,9 +189,6 @@
           </full>
         </thumbnails>
       </WinsAgainstImage>
-      <WinsAgainstName>Rock</WinsAgainstName>
-      <LosesToSign>recFLTerJGL8S79ql</LosesToSign>
-      <SuggestionCodeToLose>Z</SuggestionCodeToLose>
       <LosesToImage>
         <LosesToImageId>attHuVkkWpXh1aTUK</LosesToImageId>
         <width>1280</width>
@@ -213,8 +215,6 @@
           </full>
         </thumbnails>
       </LosesToImage>
-      <LosesToName>Scissors</LosesToName>
-      <ScoringStrategy>recIbPjyPerdD3IBy</ScoringStrategy>
       <StrategyLossScore>0</StrategyLossScore>
       <StrategyDrawScore>3</StrategyDrawScore>
       <StrategyWinScore>6</StrategyWinScore>
@@ -222,8 +222,11 @@
     <Sign>
       <SignId>recFLTerJGL8S79ql</SignId>
       <createdTime>2022-12-02T07:11:52Z</createdTime>
-      <DrawScore>6</DrawScore>
-      <WinScore>9</WinScore>
+      <WinsAgainstSign>recD9LVaVt3iAzgY6</WinsAgainstSign>
+      <ScoringStrategy>recIbPjyPerdD3IBy</ScoringStrategy>
+      <ValueWhenThrown>3</ValueWhenThrown>
+      <LosesToSign>recAZeExB21D8dfiA</LosesToSign>
+      <SuggestionSampleRounds>recUgyAotWY1juJ9y</SuggestionSampleRounds>
       <OpponentSampleRounds>recUgyAotWY1juJ9y</OpponentSampleRounds>
       <Name>Scissors</Name>
       <OpponentCode>C</OpponentCode>
@@ -253,11 +256,14 @@
           </full>
         </thumbnails>
       </Image>
-      <LossScore>3</LossScore>
       <SuggestionCode>Z</SuggestionCode>
-      <ValueWhenThrown>3</ValueWhenThrown>
-      <WinsAgainstSign>recD9LVaVt3iAzgY6</WinsAgainstSign>
+      <LossScore>3</LossScore>
+      <DrawScore>6</DrawScore>
+      <WinScore>9</WinScore>
+      <WinsAgainstName>Paper</WinsAgainstName>
       <SuggestionCodeToWin>Y</SuggestionCodeToWin>
+      <LosesToName>Rock</LosesToName>
+      <SuggestionCodeToLose>X</SuggestionCodeToLose>
       <WinsAgainstImage>
         <WinsAgainstImageId>attUrSl8ofzcPtiUE</WinsAgainstImageId>
         <width>1280</width>
@@ -284,9 +290,6 @@
           </full>
         </thumbnails>
       </WinsAgainstImage>
-      <WinsAgainstName>Paper</WinsAgainstName>
-      <LosesToSign>recAZeExB21D8dfiA</LosesToSign>
-      <SuggestionCodeToLose>X</SuggestionCodeToLose>
       <LosesToImage>
         <LosesToImageId>att0sPx2x0CVxmF17</LosesToImageId>
         <width>1280</width>
@@ -313,12 +316,9 @@
           </full>
         </thumbnails>
       </LosesToImage>
-      <LosesToName>Rock</LosesToName>
-      <ScoringStrategy>recIbPjyPerdD3IBy</ScoringStrategy>
       <StrategyLossScore>0</StrategyLossScore>
       <StrategyDrawScore>3</StrategyDrawScore>
       <StrategyWinScore>6</StrategyWinScore>
-      <SuggestionSampleRounds>recUgyAotWY1juJ9y</SuggestionSampleRounds>
     </Sign>
   </Signs>
   <SampleRounds>
@@ -332,37 +332,37 @@
       <Name>A-&gt;Y</Name>
       <OppenentCode>A</OppenentCode>
       <SuggestionCode>Y</SuggestionCode>
+      <OppenentLosesTo>Paper</OppenentLosesTo>
       <RoundStatus>Win</RoundStatus>
       <WinScore>8</WinScore>
       <Score>8</Score>
       <LossScore>2</LossScore>
       <DrawScore>5</DrawScore>
+      <OppenentWinsAgainst>Scissors</OppenentWinsAgainst>
       <OpponentPlays>Rock</OpponentPlays>
       <SuggestionName>Paper</SuggestionName>
       <SuggestionThrowValue>2</SuggestionThrowValue>
-      <OppenentWinsAgainst>Scissors</OppenentWinsAgainst>
-      <OppenentLosesTo>Paper</OppenentLosesTo>
     </SampleRound>
     <SampleRound>
       <SampleRoundId>recUgyAotWY1juJ9y</SampleRoundId>
       <createdTime>2022-12-02T07:43:29Z</createdTime>
+      <Suggestion>recFLTerJGL8S79ql</Suggestion>
       <SampleGame>recYckn5Zqf0rZLa9</SampleGame>
       <Notes>The third round is a draw with both players choosing Scissors, giving you a score of 3 + 3 = 6.</Notes>
       <Opponent>recFLTerJGL8S79ql</Opponent>
       <Name>C-&gt;Z</Name>
       <OppenentCode>C</OppenentCode>
-      <RoundStatus>Draw</RoundStatus>
-      <OpponentPlays>Scissors</OpponentPlays>
-      <Suggestion>recFLTerJGL8S79ql</Suggestion>
       <SuggestionCode>Z</SuggestionCode>
-      <SuggestionName>Scissors</SuggestionName>
-      <SuggestionThrowValue>3</SuggestionThrowValue>
+      <OppenentLosesTo>Rock</OppenentLosesTo>
+      <RoundStatus>Draw</RoundStatus>
       <WinScore>9</WinScore>
+      <Score>6</Score>
       <LossScore>3</LossScore>
       <DrawScore>6</DrawScore>
-      <Score>6</Score>
       <OppenentWinsAgainst>Paper</OppenentWinsAgainst>
-      <OppenentLosesTo>Rock</OppenentLosesTo>
+      <OpponentPlays>Scissors</OpponentPlays>
+      <SuggestionName>Scissors</SuggestionName>
+      <SuggestionThrowValue>3</SuggestionThrowValue>
     </SampleRound>
     <SampleRound>
       <SampleRoundId>recV9FjHH3Tw3i8Gc</SampleRoundId>
@@ -374,16 +374,16 @@
       <Name>B-&gt;X</Name>
       <OppenentCode>B</OppenentCode>
       <SuggestionCode>X</SuggestionCode>
+      <OppenentLosesTo>Scissors</OppenentLosesTo>
       <RoundStatus>Loss</RoundStatus>
       <WinScore>7</WinScore>
       <Score>1</Score>
       <LossScore>1</LossScore>
       <DrawScore>4</DrawScore>
+      <OppenentWinsAgainst>Rock</OppenentWinsAgainst>
       <OpponentPlays>Paper</OpponentPlays>
       <SuggestionName>Rock</SuggestionName>
       <SuggestionThrowValue>1</SuggestionThrowValue>
-      <OppenentWinsAgainst>Rock</OppenentWinsAgainst>
-      <OppenentLosesTo>Scissors</OppenentLosesTo>
     </SampleRound>
   </SampleRounds>
   <SampleGames>
@@ -394,12 +394,12 @@
       <SampleRounds>recV9FjHH3Tw3i8Gc</SampleRounds>
       <SampleRounds>recUgyAotWY1juJ9y</SampleRounds>
       <Name>SampleGame</Name>
+      <ScoringStragies>recIbPjyPerdD3IBy</ScoringStragies>
       <GameScore>15</GameScore>
       <SampleRoundNames>A-&gt;Y, B-&gt;X, C-&gt;Z</SampleRoundNames>
       <LossScore>0</LossScore>
-      <ScoringStragies>recIbPjyPerdD3IBy</ScoringStragies>
-      <WinScore>6</WinScore>
       <DrawScore>3</DrawScore>
+      <WinScore>6</WinScore>
     </SampleGame>
   </SampleGames>
 </Airtable>

@@ -28,7 +28,7 @@ Rock Paper Scissors is a game between two players. Each game contains many round
 each simultaneously choose one of Rock, Paper, or Scissors using a hand shape. Then, a winner for that round 
 is selected: 
 
-<xsl:for-each select="//Signs/Sign"><xsl:value-of select="Name"  /> defeats <xsl:value-of select="WinsAgainstName"  />
+<xsl:for-each select="//Signs/Sign"><xsl:sort select="ValueWhenThrown"/><xsl:value-of select="Name"  /> defeats <xsl:value-of select="WinsAgainstName"  />
 &lt;img src="<xsl:value-of select="Image"/>" style="width: 5em;" />
 &lt;img src="<xsl:value-of select="WinsAgainstImage"/>" style="width: 5em;" />
 </xsl:for-each>
@@ -38,14 +38,14 @@ If both players choose the same shape, the round instead ends in a draw.
 Appreciative of your help yesterday, one Elf gives you an encrypted strategy guide (your puzzle input) that they say 
 will be sure to help you win. "The first column is what your opponent is going to play: 
 
-<xsl:for-each select="//Signs/Sign"><xsl:value-of select="OpponentCode"  /> for <xsl:value-of select="Name"  />
+<xsl:for-each select="//Signs/Sign"><xsl:sort select="ValueWhenThrown"/><xsl:value-of select="OpponentCode"  /> for <xsl:value-of select="Name"  />
 </xsl:for-each>
 
 The second column--" Suddenly, the Elf is called away to help with someone's tent.
 
 The second column, you reason, must be what you should play in response: 
 
-<xsl:for-each select="//Signs/Sign"><xsl:value-of select="SuggestionCode"  /> for <xsl:value-of select="Name"  />
+<xsl:for-each select="//Signs/Sign"><xsl:sort select="ValueWhenThrown"/><xsl:value-of select="SuggestionCode"  /> for <xsl:value-of select="Name"  />
 </xsl:for-each>
 
 Winning every time would be suspicious, so the responses must have been carefully chosen.
@@ -53,7 +53,7 @@ Winning every time would be suspicious, so the responses must have been carefull
 The winner of the whole tournament is the player with the highest score. Your total score is the sum of 
 your scores for each round. The score for a single round is the score for the shape you selected 
 
-<xsl:for-each select="//Signs/Sign"><xsl:value-of select="ValueWhenThrown"  /> for <xsl:value-of select="Name"  />
+<xsl:for-each select="//Signs/Sign"><xsl:sort select="ValueWhenThrown"/><xsl:value-of select="ValueWhenThrown"  /> for <xsl:value-of select="Name"  />
 </xsl:for-each>
 
 plus the score for the outcome of the round (0 if you lost, 3 if the round was a draw, and 6 if you won).
@@ -81,9 +81,8 @@ This strategy guide predicts and recommends the following:
  - **"Purple" Notes:** <xsl:value-of select="Notes"/>
 </xsl:for-each>
 
-    In this example, if you were to follow the strategy guide, 
-you would get a total score of <xsl:value-of select="GameScore" /> (<xsl:for-each select="SampleRound"><xsl:sort select="Name"/><xsl:if test="position() > 1"> + </xsl:if><xsl:value-of select="Score"/> </xsl:for-each>).
 
+In this example, if you were to follow the strategy guide, you would get a total score of <xsl:value-of select="GameScore" /> (<xsl:for-each select="SampleRound"><xsl:sort select="Name"/><xsl:if test="position() > 1"> + </xsl:if><xsl:value-of select="Score"/> </xsl:for-each>).
 
 </xsl:for-each>
 

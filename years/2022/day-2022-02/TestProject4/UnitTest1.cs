@@ -19,7 +19,8 @@ namespace TestProject4
         public void Test1()
         {
             Int32 value = this.StrategyGuide.GetTotal();
-            Assert.That(value, Is.EqualTo(15));
+            var expectedValue = this.StrategyGuide.GetExpecteGameScore();
+            Assert.That(value, Is.EqualTo(expectedValue));
         }
     }
 }
