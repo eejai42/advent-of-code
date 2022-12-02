@@ -4,20 +4,21 @@ using System.Linq;
 
 namespace TestProject3
 {
-    internal class Elf
+    internal class Elf : IElf
     {
         public Elf()
         {
-            this.Food = new List<Int32>();
+            this.ItemWithCalories = new List<Int32>();
         }
 
-        public List<int> Food { get; }
-        public Int32 CarryingCalories { get => this.Food.Sum(food => food); }
+        public List<int> ItemWithCalories { get; }
+        public Int32 TotalCaloriesCarried { get => this.ItemWithCalories.Sum(food => food); }
 
         internal void AddCalories(Int32 calories)
         {
-            this.Food.Add(calories);
+            this.ItemWithCalories.Add(calories);
         }
 
     }
+
 }

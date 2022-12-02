@@ -15,14 +15,14 @@ namespace TestProject3
         {
             var file = File.ReadAllText("../../../data.txt");
             this.Pantry = new Pantry(file);
-            this.Elves = this.Pantry.GetFedElves().OrderByDescending(elf => elf.CarryingCalories).ToList();
+            this.Elves = this.Pantry.GetFedElves().OrderByDescending(elf => elf.TotalCaloriesCarried).ToList();
         }
 
         [Test]
         public void Test1()
         {
             var biggestElf = this.Elves.FirstOrDefault();
-            Assert.That(biggestElf.CarryingCalories, Is.EqualTo(68802));
+            Assert.That(biggestElf.TotalCaloriesCarried, Is.EqualTo(68802));
         }
 
 
@@ -30,8 +30,8 @@ namespace TestProject3
         public void Test2()
         {
             var biggest3Elves = this.Elves.Take(3);
-            var top3Calories = biggest3Elves.Sum(elf => elf.CarryingCalories);
-            Assert.That(top3Calories, Is.EqualTo(68802));
+            var top3Calories = biggest3Elves.Sum(elf => elf.TotalCaloriesCarried);
+            Assert.That(top3Calories, Is.EqualTo(205370));
         }
     }
 }

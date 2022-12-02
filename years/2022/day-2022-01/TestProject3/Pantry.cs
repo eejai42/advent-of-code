@@ -4,45 +4,45 @@ using System.Linq;
 
 namespace TestProject3
 {
-    internal class Pantry
+    internal class Pantry : IPantry
     {
-        
-        public Pantry(string food)
+
+        public Pantry(string rawFoodInvventoryText)
         {
-            this.FoodItems = food.Split(Environment.NewLine)
-                                    .Select(item => String.IsNullOrEmpty(item) ? -1 : Int32.Parse(item))
-                                    .ToList();
+            this.RawFoodInventory = rawFoodInvventoryText.Split(Environment.NewLine)
+                                                        .Select(item => String.IsNullOrEmpty(item) ? -1 : Int32.Parse(item))
+                                                        .ToList();
         }
 
-        public List<Int32> FoodItems { get; }
-        public List<Int32> FoodItemsWithCalories { get => this.FoodItems.Where(item => item > 0).ToList(); }
-        public Int32 NextItem { get => this.HasMoreFood ? this.FoodItems.FirstOrDefault() : -1; }
-        public bool HasMoreFood { get => this.FoodItemsWithCalories.Any(); }
+        public List<Int32> RawFoodInventory { get; }
+        public List<Int32> FoodItemsWithCalories { get => this.RawFoodInventory.Where(item => item > 0).ToList(); }
+        public bool HasMoreFoodWithCalories { get => this.FoodItemsWithCalories.Any(); }
+        public Int32 NextFoodCalorieCount { get => this.HasMoreFoodWithCalories ? this.RawFoodInventory.FirstOrDefault() : -1; }
 
-        internal List<Elf> GetFedElves()
+        public List<Elf> GetFedElves()
         {
             var elves = new List<Elf>();
-            while (this.HasMoreFood)
+            while (this.HasMoreFoodWithCalories)
             {
                 var elf = new Elf();
-                while (this.NextItem != -1)
+                while (this.NextFoodCalorieCount != -1)
                 {
-                    elf.AddCalories(this.GetNextFoodItem());
+                    elf.AddCalories(this.GetNextRawCalorieValue());
                 }
-                this.GetNextFoodItem();
+                this.GetNextRawCalorieValue();
                 elves.Add(elf);
 
             }
             return elves;
         }
 
-        private Int32 GetNextFoodItem()
+        private Int32 GetNextRawCalorieValue()
         {
-            if (!this.FoodItems.Any()) return -1;
+            if (!this.RawFoodInventory.Any()) return -1;
             else
             {
-                var next = this.FoodItems.First();
-                this.FoodItems.RemoveAt(0);
+                var next = this.RawFoodInventory.First();
+                this.RawFoodInventory.RemoveAt(0);
                 return next;
             }
         }
