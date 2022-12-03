@@ -31,6 +31,11 @@ namespace TestProject4
             this.RawData = data.Split(Environment.NewLine).ToList();
         }
 
+        internal DateTime CalculateSomeDate()
+        {
+            throw new NotImplementedException();
+        }
+
         internal Int32 GetExpecteGameScore()
         {
             return Int32.Parse($"{this.Day02.SampleGames.SampleGame.GameScore}");
@@ -38,7 +43,7 @@ namespace TestProject4
 
         internal int GetTotal()
         {
-            return this.RawData.Sum(line => CalculateLineSCore(line));
+            return this.RawData.Sum(line => CalculateLineScore(line));
         }
 
         internal int GetTotal2()
@@ -46,8 +51,7 @@ namespace TestProject4
             return this.RawData.Sum(line => CalculateLineSCore2(line));
         }
 
-
-        private int CalculateLineSCore(string line)
+        private int CalculateLineScore(string line)
         {
             var parts = line.Split(" ".ToCharArray()).ToList();
             var opponentSign = this.SignsByOpCode[parts[0]];

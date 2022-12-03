@@ -81,7 +81,6 @@ This strategy guide predicts and recommends the following:
  - **"Purple" Notes:** <xsl:value-of select="Notes"/>
 </xsl:for-each>
 
-
 In this example, if you were to follow the strategy guide, you would get a total score of <xsl:value-of select="GameScore" /> (<xsl:for-each select="SampleRound"><xsl:sort select="Name"/><xsl:if test="position() > 1"> + </xsl:if><xsl:value-of select="Score"/> </xsl:for-each>).
 
 </xsl:for-each>

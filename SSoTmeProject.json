@@ -187,6 +187,28 @@
       "Name": "XmlXsltTransform",
       "RelativePath": "/years/2022/day-2022-02/docs",
       "CommandLine": "xml-xslt-transform -i ..\\SSoT\\Day02.xml -i CreateDocs.xslt"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "19d8142a-2f4d-46ac-9de6-77441f233192",
+        "Name": "AirtableToXml",
+        "Description": "Extracts the contents of an airtable base as a single Xml file."
+      },
+      "ProjectTranspilerId": "6c6f42dc-238c-4afa-ab8e-f70e5bf11616",
+      "Name": "AirtableToXml",
+      "RelativePath": "/years/2022/day-2022-03/SSoT",
+      "CommandLine": "airtable/airtable-to-xml -p baseId=appsl1IuS9feiUMfF -p entities=Priorities:202203-Priorities"
+    },
+    {
+      "MatchedTranspiler": {
+        "TranspilerId": "ba509977-74bf-486e-a405-1b2125bd5d15",
+        "Name": "XmlToJson",
+        "Description": "Converts XML to JSON using the NewtonSoft C# conversion tools."
+      },
+      "ProjectTranspilerId": "ffdf1871-032a-4899-ba45-553a168ac876",
+      "Name": "XmlToJson",
+      "RelativePath": "/years/2022/day-2022-03/SSoT",
+      "CommandLine": "xml-to-json -i .\\Airtable.xml"
     }
   ]
 }
