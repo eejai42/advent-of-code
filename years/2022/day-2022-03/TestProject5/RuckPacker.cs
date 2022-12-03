@@ -1,25 +1,37 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace TestProject5
 {
-    internal class RuckPacker
+    internal class RucksackPacker
     {
-        private string data;
+        private string RawData;
 
-        public RuckPacker(string data)
+        public RucksackPacker(string rawData)
         {
-            this.data = data;
+            var index = 0;
+            this.RawData = rawData;
+            this.Rucksacks = this.RawData
+                                .Split(Environment.NewLine)
+                                .Select(line => new Rucksack(line, this, index++))
+                                .ToList();
         }
+
+        public List<Rucksack> Rucksacks { get; private set; }
 
         internal int GetScore()
         {
-            var rucksacks = this.data
-                                .Split(Environment.NewLine)
-                                .Select(line => new Rucksack(line))
-                                .ToList();
-            var priorities = rucksacks.Sum(rucksack => this.GetPriority(rucksack.ItemType));
+            var priorities = this.Rucksacks.Sum(rucksack => this.GetPriority(rucksack.ItemType));
             return priorities;
+        }
+
+        internal int GetBadgeScore()
+        {
+            var groups = this.Rucksacks.GroupBy(rucksack => Math.Floor(rucksack.PackIndex / 3.0));
+            var badgeCodes = groups.Select(grp => (char)grp.First().FindBadge(grp.ToList())).ToList();
+            var priorites = badgeCodes.Sum(badgeCode => this.GetPriority(badgeCode));
+            return priorites;
         }
 
         private int GetPriority(char itemType)

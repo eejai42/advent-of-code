@@ -51,6 +51,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject5", "years\2022\day-2022-03\TestProject5\TestProject5.csproj", "{392AA42C-61AD-4F1E-B76D-D5FFFB857B43}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day-03", "Day-03", "{77B3B6F3-BD6F-4936-A050-1486718F6D8E}"
+	ProjectSection(SolutionItems) = preProject
+		years\2022\day-2022-03\sample-data.txt = years\2022\day-2022-03\sample-data.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
