@@ -15,9 +15,9 @@ namespace TestProject5
 
         public Rucksack(string line, RucksackPacker ruckPacker, int index)
         {
-            this.RawData = line;
             this.PackIndex = index;
             this.RuckPacker = ruckPacker;
+            this.RawData = line;
             this.Compartment1 = line.Substring(0, line.Length / 2);
             this.Compartment2 = line.Substring(line.Length / 2);
             this.ItemType = Compartment1.First(chr => this.Compartment2.Contains(chr));
